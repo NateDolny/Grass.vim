@@ -4,7 +4,7 @@
 
 # Installation 
 ```
-p grass.vim ~/.vim/colors/
+cp grass.vim ~/.vim/colors/
 ```
 
 # Usage
