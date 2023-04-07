@@ -14,4 +14,4 @@ colorscheme grass
 ```
 
 # License 
-MIT License &copy natedolny
+MIT License © NateDolny
