@@ -10,3 +10,7 @@ hi clear
 if exists('syntax on')
     syntax reset
 endif
+
+let g:colors_name = 'grass'
+
+
